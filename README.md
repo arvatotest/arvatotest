@@ -1,2 +1,2 @@
 # arvatotest
-A simple test project to test. Hello world!
+A simple test project to test. Hello world.
